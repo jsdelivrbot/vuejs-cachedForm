@@ -63,7 +63,7 @@ import swal from 'sweetalert';
                 error: {},
                 token : "",
                 method: "Create",
-                baseURL : "http://stcmsapi.test/api/v1/",
+                baseURL : "http://your_api_domain.com/api/v1/",
                 CacheStatus: false,
                 CachedId: 0,
                 datas : {
