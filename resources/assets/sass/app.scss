@@ -1,0 +1,11 @@
+// Fonts
+@import url("https://cdn.rawgit.com/tonsky/FiraCode/1.205/distr/fira_code.css");
+// bootstrap
+@import '~bootstrap/scss/bootstrap';
+// Variables
+@import "variables";
+
+body {
+  font-family: "Fira Code", sans-serif;
+  font-size: 15px;
+}

@@ -1,0 +1,13 @@
+{
+    "name": "taner-in-code/cache-form",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Taner Tombas",
+            "email": "tombastaner@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
